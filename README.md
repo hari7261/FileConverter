@@ -4,6 +4,8 @@
 
 Welcome to **FileConverter**, the only tool you'll ever need to transform your files from "meh" to "marvelous"! While our file conversion services are **still brewing** (🥛 patience, my friend!), we’re working round the clock to make them magical. Keep an eye on this repo for updates. For now, dive in and explore what's coming soon! 🚀
 
+![image](https://github.com/user-attachments/assets/31e48a78-f959-4f1a-a029-f658f8362f12)
+
 ---
 
 ## 📊 Project Highlights
@@ -17,6 +19,7 @@ Welcome to **FileConverter**, the only tool you'll ever need to transform your f
 | 🔗 **User-Friendly Interface**| Live! ✔️    | A sleek, simple interface to get started. Even your grandma can use it! 😬 |
 
 ---
+
 
 ## 🔄 Conversion Formats (Coming Soon!)
 Our future-supported formats include:
