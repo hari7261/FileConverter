@@ -16,8 +16,6 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "File Converter | Next.js",
   description: "Build by Hariom Pandit",
-  keywords: "File Converter, Next.js, Build by Hariom Pandit",
-  viewport: "width=device-width, initial-scale=1",
 };
 
 export default function RootLayout({
